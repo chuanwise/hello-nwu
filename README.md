@@ -10,4 +10,4 @@
 
 ## 答疑信息
 
-* [新生区](./questions/newbie.md)
+* [新生区](./questions/newbie/README.md)
