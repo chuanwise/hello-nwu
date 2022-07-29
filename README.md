@@ -11,3 +11,4 @@
 ## 答疑信息
 
 * [新生区](./questions/newbie/README.md)
+* [保研区](./questions/recommended-exemption-from-examination/README.md)
